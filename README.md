@@ -3,3 +3,4 @@ Assignment repository for UNT CSCE1015
 ## EUID
 mmm0766
 ## Favorite Linux Command
+sl
